@@ -1,2 +1,2 @@
 # Texas Instruments OS Signing Keys
-See [keys.md](keys.md)
+See [key.md](key.md)
